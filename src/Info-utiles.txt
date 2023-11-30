@@ -1,0 +1,13 @@
+On a identifier 3 composants :
+- le input et son formulaire
+
+- le compteur 
+
+- les listes et leurs checkboxes 
+
+Chose a faire :
+
+créer un fichier Input.jsx pour gérer l'input.
+
+Il faut créer une fonction qui renvoie une input et la valeur que l'utilisateur
+tape dedans.
